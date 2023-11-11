@@ -110,3 +110,4 @@ print(run_query(query_statement, engine))
 log_progress('Process Complete.')
 
 con.close()
+
